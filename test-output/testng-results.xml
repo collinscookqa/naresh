@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80232" started-at="2014-06-03T14:58:38Z" finished-at="2014-06-03T14:59:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80232" started-at="2014-06-03T14:58:38Z" finished-at="2014-06-03T14:59:58Z">
+      <class name="com.ece.com.Shalima">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ece.com.Shalima@3ef78672]" name="setUp" is-config="true" duration-ms="10849" started-at="2014-06-03T15:58:38Z" finished-at="2014-06-03T15:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:com.ece.com.Shalima@3ef78672]" name="testUntitled" duration-ms="69013" started-at="2014-06-03T15:58:48Z" finished-at="2014-06-03T15:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ece.com.Shalima@3ef78672]" name="tearDown" is-config="true" duration-ms="351" started-at="2014-06-03T15:59:57Z" finished-at="2014-06-03T15:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ece.com.Shalima -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
